@@ -1,1 +1,2 @@
-# wanderlust
+# Wanderlust - Airbnb Clone 
+Developed a fully functional web application, Wanderlust, for booking rooms and hotels, inspired by Airbnb. Utilized HTML, CSS, and Bootstrap for responsive design, ensuring a user-friendly experience across various devices. Implemented a robust backend using Node.js and MongoDB for seamless data management and storage. Leveraged EJS templates for dynamic page rendering, facilitating real-time updates and interactions. This project enhanced my skills in full-stack development while demonstrating my ability to create scalable and engaging web applications.
